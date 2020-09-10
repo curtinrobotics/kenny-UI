@@ -1,5 +1,5 @@
-# kenny-tablet
-Tablet Controller for Kenny
+# kenny-UI
+User interface and controller for Kenny
 
 ### Install (Linux)
 
