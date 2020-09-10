@@ -1,2 +1,2 @@
-# kenny_tablet
+# kenny-tablet
 Tablet Controller for Kenny
